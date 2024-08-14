@@ -63,11 +63,11 @@ const aboutData = [
     title: 'Awards',
     info: [
       {
-        title: '3rd Position - ACM Coding Competetion',
+        title: '3rd Position - ACM Coding Competetion @ FAST',
         stage: '2023',
       },
       {
-        title: 'Deans List Fast University',
+        title: 'Deans List - Fast University',
         stage: '2022',
       },
     ],
@@ -76,7 +76,11 @@ const aboutData = [
     title: 'Experience',
     info: [
       {
-        title: 'MERN Full Stack Developer - TheCryptoHub',
+        title: 'ASE - Programmers Force',
+        stage: '2024 - Ongoing',
+      },
+      {
+        title: 'Parttime MERN Developer - TheCryptoHub',
         stage: '2023 - Ongoing',
       },
       {
