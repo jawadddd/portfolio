@@ -9,6 +9,7 @@ import {
   FaNodeJs,
   FaPython,
   FaJava,
+  FaPhp  
   
 } from 'react-icons/fa'
 import {
@@ -47,11 +48,9 @@ const aboutData = [
         <SiNextdotjs key="nextjs" />, 
         <FaNodeJs key="nodejs" />,
         <FaPython key="Python" />,
+        <FaPhp key="php" />,
+        
         ],
-      },
-      {
-        title: 'UI/UX Design',
-        icons: [<FaFigma key="figma" />, <SiAdobexd key="adobe" />, <SiAdobephotoshop key="photoshop" />],
       },
       {
         title: 'Desktop Development',
@@ -66,10 +65,6 @@ const aboutData = [
         title: '3rd Position - ACM Coding Competetion @ FAST',
         stage: '2023',
       },
-      {
-        title: 'Deans List - Fast University',
-        stage: '2022',
-      },
     ],
   },
   {
@@ -77,7 +72,7 @@ const aboutData = [
     info: [
       {
         title: 'ASE - Programmers Force',
-        stage: '2024 - Ongoing',
+        stage: '2024 - 2024',
       },
       {
         title: 'Parttime MERN Developer - TheCryptoHub',
